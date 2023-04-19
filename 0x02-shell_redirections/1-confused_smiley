@@ -1,2 +1,2 @@
-!#/bin/bash
-echo \"\(\<C-v\>U+1F615o\)\'
+#!/bin/bash
+echo "<C-v\>U+1F615o"
